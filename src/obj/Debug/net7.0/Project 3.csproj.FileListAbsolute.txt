@@ -1,0 +1,52 @@
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Project 3.exe
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Project 3.deps.json
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Project 3.runtimeconfig.json
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Project 3.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Project 3.pdb
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\Telegram.Bot.dll
+C:\Users\user.UIT\Desktop\Project 3\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.csproj.AssemblyReference.cache
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.AssemblyInfoInputs.cache
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.AssemblyInfo.cs
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.csproj.CopyComplete
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.dll
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\refint\Project 3.dll
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.pdb
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\Project 3.genruntimeconfig.cache
+C:\Users\user.UIT\Desktop\Project 3\obj\Debug\net7.0\ref\Project 3.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Project 3.exe
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Project 3.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Project 3.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Project 3.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Project 3.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\Telegram.Bot.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.csproj.Up2Date
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\refint\Project 3.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\Project 3.genruntimeconfig.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Project 3\obj\Debug\net7.0\ref\Project 3.dll
