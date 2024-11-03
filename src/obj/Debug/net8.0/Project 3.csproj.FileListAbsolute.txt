@@ -49,3 +49,20 @@ C:\Users\vadim\OneDrive\Рабочий стол\Шарага\Разработк�
 C:\Users\vadim\OneDrive\Рабочий стол\Шарага\Разработка программных модулей\Project 3\obj\Debug\net8.0\Project 3.pdb
 C:\Users\vadim\OneDrive\Рабочий стол\Шарага\Разработка программных модулей\Project 3\obj\Debug\net8.0\Project 3.genruntimeconfig.cache
 C:\Users\vadim\OneDrive\Рабочий стол\Шарага\Разработка программных модулей\Project 3\obj\Debug\net8.0\ref\Project 3.dll
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\bin\Debug\net8.0\Project 3.exe
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\bin\Debug\net8.0\Project 3.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\bin\Debug\net8.0\Project 3.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\bin\Debug\net8.0\Project 3.dll
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\bin\Debug\net8.0\Project 3.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.csproj.Up2Date
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.dll
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\refint\Project 3.dll
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\Project 3.genruntimeconfig.cache
+C:\Users\vadim\OneDrive\Рабочий стол\MyProject3-main\src\obj\Debug\net8.0\ref\Project 3.dll

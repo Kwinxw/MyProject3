@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ld9wyFXV+Tw=",
+  "dgSpecHash": "s7w0bkBuR/0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Шарага\\Разработка программных модулей\\Project 3\\Project 3.csproj",
+  "projectFilePath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\MyProject3-main\\src\\Project 3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vadim\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\vadim\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",

@@ -527,14 +527,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Шарага\\Разработка программных модулей\\Project 3\\Project 3.csproj",
+      "projectUniqueName": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\MyProject3-main\\src\\Project 3.csproj",
       "projectName": "Project 3",
-      "projectPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Шарага\\Разработка программных модулей\\Project 3\\Project 3.csproj",
+      "projectPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\MyProject3-main\\src\\Project 3.csproj",
       "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Шарага\\Разработка программных модулей\\Project 3\\obj\\",
+      "outputPath": "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\MyProject3-main\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\Шарага\\Разработка программных модулей\\Project 3\\NuGet.Config",
+        "C:\\Users\\vadim\\OneDrive\\Рабочий стол\\MyProject3-main\\src\\NuGet.Config",
         "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

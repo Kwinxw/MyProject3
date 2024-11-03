@@ -12,13 +12,25 @@ var me = await bot.GetMeAsync();
 bot.OnMessage += OnMessage;
 bot.OnUpdate += OnUpdate;
 
-await bot.SendTextMessageAsync("6796149827", "Здравствуйте, кухня холостяка научит вас готовить! Как мне к вам обращаться? "); //нужно менять id чата для отправки вступительного сообщения
 Console.WriteLine($"@{me.Username} запущен... Нажмите Enter чтобы выключить");
 Console.ReadLine();
 cts.Cancel();
 
 async Task OnMessage(Message msg, UpdateType type)
 {
+    if (!userNames.ContainsKey(msg.Chat.Id))
+    {
+        if (msg.Text == "/start")
+        {
+            await bot.SendTextMessageAsync(msg.Chat.Id, "Введите ваше имя:");
+            return;
+        }
+
+        userNames[msg.Chat.Id] = msg.Text;
+        await bot.SendTextMessageAsync(msg.Chat.Id, $"Здравствуйте, {msg.Text}! Выберите действие:",
+            replyMarkup: new InlineKeyboardMarkup().AddButtons("Рецепты", "Базовые задачи бота"));
+        return;
+    }
     if (!userNames.ContainsKey(msg.Chat.Id))
     { 
 
@@ -30,8 +42,6 @@ async Task OnMessage(Message msg, UpdateType type)
             return;
         }
         userNames[msg.Chat.Id] = name;
-        await bot.SendTextMessageAsync(msg.Chat, $"Здравствуйте, {name}! Выберите действие:",
-            replyMarkup: new InlineKeyboardMarkup().AddButtons("Рецепты", "Базовые задачи бота"));
     }
     else
     {

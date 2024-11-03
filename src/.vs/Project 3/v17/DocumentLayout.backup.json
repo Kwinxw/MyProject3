@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0428\u0430\u0440\u0430\u0433\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Project 3\\",
+  "WorkspaceRootPath": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MyProject3-main\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\project 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\myproject3-main\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\project 3\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\myproject3-main\\src\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\project 3\\project 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|c:\\users\\vadim\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\myproject3-main\\src\\project 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CB1A68A3-2856-4B85-B5C9-1F9335F536EF}|Project 3.csproj|solutionrelative:project 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Project 3.csproj",
-              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0428\u0430\u0440\u0430\u0433\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Project 3\\Project 3.csproj",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MyProject3-main\\src\\Project 3.csproj",
               "RelativeDocumentMoniker": "Project 3.csproj",
-              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0428\u0430\u0440\u0430\u0433\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Project 3\\Project 3.csproj",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MyProject3-main\\src\\Project 3.csproj",
               "RelativeToolTip": "Project 3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-06T05:56:24.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T05:56:24.875Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "nuget.config",
-              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0428\u0430\u0440\u0430\u0433\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Project 3\\nuget.config",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MyProject3-main\\src\\nuget.config",
               "RelativeDocumentMoniker": "nuget.config",
-              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0428\u0430\u0440\u0430\u0433\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Project 3\\nuget.config",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MyProject3-main\\src\\nuget.config",
               "RelativeToolTip": "nuget.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-06T05:55:26.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T05:55:26.382Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0428\u0430\u0440\u0430\u0433\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Project 3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MyProject3-main\\src\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0428\u0430\u0440\u0430\u0433\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Project 3\\Program.cs",
+              "ToolTip": "C:\\Users\\vadim\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MyProject3-main\\src\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAgwEQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T05:49:58.345Z",
               "EditorCaption": ""
